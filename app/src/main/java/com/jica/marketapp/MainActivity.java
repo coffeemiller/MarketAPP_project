@@ -176,5 +176,6 @@ public class MainActivity extends AppCompatActivity {
         s += findName;
         textView.setText(s);   //화면에 데이터를 넣는다
 
+
     }
 }
